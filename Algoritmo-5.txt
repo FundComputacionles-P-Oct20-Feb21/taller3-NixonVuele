@@ -1,0 +1,8 @@
+1. Inicio
+2. Se pide que se ingrese el costo del CPU
+3. Se pide que se ingrese el costo del teclado
+4. Se pide que se ingrese el costo de la pantalla
+5. Se pide que se ingrese el costo del raton
+6. Se calcula el valor total de la computadora sumando el costo del: CPU, teclado, pantalla y ratón.
+7. Se presenta en pantalla el valor total de la computadora
+8. Fin

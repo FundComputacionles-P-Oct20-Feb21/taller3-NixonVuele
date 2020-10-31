@@ -1,0 +1,8 @@
+1. Inicio
+2. Se pide que se ingrese el valor de costo por kilovatio/hora
+3. Se pide que se ingrese el numero de kilovatios consumidos en el mes
+4. Se calcula el valor a cancelar de una planilla de luz multiplicando el costo por kilovatio/hora por el numero de kilovatios consumidos en el mes.
+5. Se pide que se ingrese la edad del usuario
+6. Si el usuario tiene mas de 65 años se presenta en pantalla el valor a cancelar de la planilla de luz menos el 10%
+7. Si el usuario tiene menos de 65 años se presenta en pantalla el valor a cancelar de la planilla de luz
+8. Fin

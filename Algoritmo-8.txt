@@ -1,0 +1,9 @@
+1. Inicio
+2. Se pide el costo del servicio digital de netflix
+3. Se pide el costo del servicio digital de youtube premium
+4. Se pide el costo del servicio digital de dropbox
+5. Se pide el costo del servicio digital de spotify
+6. Se calcula el valor total de las cuentas al mes sumando los costos de los servicios digitales: netflix, youtube premium, dropbox, spotify
+7. Si el usuario es menor de 30 años el valor total de las cuentas al mes se le hace un descuento del 20%
+8. Se presenta el valor total de pago mensual
+9. Fin

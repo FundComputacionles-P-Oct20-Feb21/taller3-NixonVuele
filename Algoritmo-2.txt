@@ -3,5 +3,5 @@
 3. Se pide que se ingrese los gastos del segundo hijo
 4. Se pide que se ingrese los gastos del tercero hijo
 5. Se realiza la suma de todos los gastos ingresados de cada hijo
-5. Se presenta en pantalla el total de la suma
-6. Fin
+6. Se presenta en pantalla el total de la suma
+7. Fin

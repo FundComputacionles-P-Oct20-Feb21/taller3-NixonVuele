@@ -1,1 +1,5 @@
-dsfsdfdsfdfs
+1. Inicio
+2. Se pide que se ingrese un numero
+3. Calcular la tabla de mutiplicar del numero ingresado
+4. Si el valor del número ingresado esta entre el numero 2 y el numero. Se presenta en pantalla la tabla de multiplicar del numero ingresado, caso contrario no se muestra nada en la pantalla
+5. Fin

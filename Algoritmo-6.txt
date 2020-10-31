@@ -1,0 +1,7 @@
+1. Inicio
+2. Se pide que se ingrese el monto del prestamo
+3. Se calcula el valor a pagar por mes dividiendo el monto del prestamo ingresado dividido para 12 meses que confoma 1 año
+4. Se pide que se ingrese el interes mensual a cobrar
+5. Se calcula el pago mensual sumando el valor a pagar por mes mas el interes mensual a cobrar
+6. Se presenta en pantalla el total a pagar mensualmente del prestamo ingresado
+7. Fin

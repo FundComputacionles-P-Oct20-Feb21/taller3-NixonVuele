@@ -1,0 +1,6 @@
+1. Inicio
+2. Se pide que se ingrese el costo por minuto del telefono
+3. Se pide que se ingrese el número de minutos consumidos en el mes
+4. Se calcula el valor de la planilla de telefono multiplicando el costo por minuto del telefono con el numero de minutos consumidos en el mes
+5. Se presenta en pantalla el valor de la planilla de telefono
+6. Fin
